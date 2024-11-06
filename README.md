@@ -1,3 +1,17 @@
+E-commerce Básico
+Este é um projeto de e-commerce básico, desenvolvido utilizando Next.js, TypeScript, e Tailwind CSS. O sistema permite que os usuários visualizem produtos, adicionem itens ao carrinho e façam a gestão desses itens. A funcionalidade de carrinho de compras é implementada com persistência local utilizando o localStorage para garantir que os itens permanecem mesmo após a página ser recarregada.
+
+Funcionalidades:
+Listagem de produtos: Exibe os itens disponíveis para compra.
+Carrinho de compras: Permite adicionar, remover e atualizar a quantidade de itens no carrinho.
+Persistência no carrinho: Utiliza o localStorage para salvar os itens do carrinho, mantendo os dados mesmo após a página ser recarregada.
+Tecnologias:
+Next.js: Framework React para desenvolvimento web.
+TypeScript: Para garantir maior segurança no código.
+Tailwind CSS: Framework de estilos para facilitar a criação de interfaces responsivas.
+localStorage: Armazenamento no navegador para manter os itens no carrinho.
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
